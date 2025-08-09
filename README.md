@@ -1,41 +1,94 @@
-# 🚀 Mahadi Hasan Arnob
-**`Passionate Software Developer | Tech Enthusiast | Lifelong Learner`**
+# 👋 Hey, I'm Mahadi Hasan  Arnob
 
-Hi! I'm Arnob, a passionate software developer who thrives on building modern, efficient, and impactful software solutions. I love exploring the latest technologies, learning every day, and creating projects that solve real problems.
+**`React Developer | Full Stack Enthusiast | Tech Explorer`**
+
+I'm a passionate software developer who loves building interactive, scalable, and user-friendly applications. I stay up-to-date with the latest technologies and enjoy turning ideas into functional, polished products.  
+My latest project? An **E-commerce & Chatting App** that blends smooth UI with real-time features. 🚀  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=3776AB)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-333?logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-333?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-333?logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-333?logo=express&logoColor=fff)
+**Backend & Database:**  
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 
-**Tools & Platforms:**  
-![Firebase](https://img.shields.io/badge/Firebase-333?logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-333?logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?logo=visual-studio-code&logoColor=0078d7)
+---
+
+## 📌 Latest Project
+**E-commerce & Chatting App**  
+A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
+**Tech used:** React, TailwindCSS, Firebase, Express, MUI.
+
+🔗 [View Project](#) _(Add your project link here)_
 
 ---
 
 ## 📈 GitHub Stats
 
-![Arnob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev&show_icons=true&theme=tokyonight)  
+![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=# 👋 Hey, I'm Mahadi Hasan  
+
+**`React Developer | Full Stack Enthusiast | Tech Explorer`**
+
+I'm a passionate software developer who loves building interactive, scalable, and user-friendly applications. I stay up-to-date with the latest technologies and enjoy turning ideas into functional, polished products.  
+My latest project? An **E-commerce & Chatting App** that blends smooth UI with real-time features. 🚀  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
+
+**Backend & Database:**  
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+
+---
+
+## 📌 Latest Project
+**E-commerce & Chatting App**  
+A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
+**Tech used:** React, TailwindCSS, Firebase, Express, MUI.
+
+🔗 [View Project](#) _(Add your project link here)_
+
+---
+
+## 📈 GitHub Stats
+
+![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasandev&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayhaydi-hasan-b02476259/)
-[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mayhaydihasan.com@gmail.com)
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayhaydi-hasan-b02476259/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mayhaydihasan.com@gmail.com)  
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ 😄
+> _"Building today what the world will use tomorrow."_ ✨
+&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+
+---
+
+> _"Building today what the world will use tomorrow."_ ✨
