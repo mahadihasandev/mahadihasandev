@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mahadi Hasan  Arnob
+# 👋 Hey, I'm Mahadi Hasan Arnob
 
 **`React Developer | Full Stack Enthusiast | Tech Explorer`**
 
@@ -32,7 +32,7 @@ A modern platform that allows users to shop online with a smooth UI and communic
 
 ## 📈 GitHub Stats
 
-![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=# 👋 Hey, I'm Mahadi Hasan  
+![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev 👋 Hey, I'm Mahadi Hasan Arnob
 
 **`React Developer | Full Stack Enthusiast | Tech Explorer`**
 
