@@ -80,7 +80,7 @@ A modern platform that allows users to shop online with a smooth UI and communic
 
 > _"Building today what the world will use tomorrow."_ ✨
 &show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasandev&layout=compact&theme=tokyonight)
 
 ---
 
