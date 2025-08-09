@@ -1,5 +1,4 @@
-# 🚀 Arnob Hasan
-
+# 🚀 Mahadi Hasan Arnob
 **`Passionate Software Developer | Tech Enthusiast | Lifelong Learner`**
 
 Hi! I'm Arnob, a passionate software developer who thrives on building modern, efficient, and impactful software solutions. I love exploring the latest technologies, learning every day, and creating projects that solve real problems.
