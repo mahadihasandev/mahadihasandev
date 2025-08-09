@@ -28,15 +28,14 @@ Hi! I'm Arnob, a passionate software developer who thrives on building modern, e
 
 ## 📈 GitHub Stats
 
-![Arnob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnobhasan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobhasan&layout=compact&theme=tokyonight)
+![Arnob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasandev&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
-[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayhaydi-hasan-b02476259/)
+[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mayhaydihasan.com@gmail.com)
 
 ---
 
