@@ -60,14 +60,16 @@ My latest project? An **E-commerce & Chatting App** that blends smooth UI with r
 A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
 **Tech used:** React, TailwindCSS, Firebase, Express, MUI.
 
-🔗 [View Project](#) _(Add your project link here)_
+🔗 [View Project](#) _(https://e-commerce-react-tailwind-six.vercel.app/)_
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasandev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -86,6 +88,7 @@ A modern platform that allows users to shop online with a smooth UI and communic
 
 ## 📫 Connect With Me
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/arnob38/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
