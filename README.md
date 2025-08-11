@@ -10,14 +10,10 @@ My latest project? An **E-commerce & Chatting App** that blends smooth UI with r
 ## 🛠 Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
 
 **Backend & Database:**  
-![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 
 ---
 
@@ -26,74 +22,15 @@ My latest project? An **E-commerce & Chatting App** that blends smooth UI with r
 A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
 **Tech used:** React, TailwindCSS, Firebase, Express, MUI.
 
-🔗 [View Project](#) _(Add your project link here)_
-
+🔗 [View Project](#) E-commerce:(https://e-commerce-react-tailwind-six.vercel.app/)_
+                      Chatting App:(https://barta-box-chatting-app.vercel.app/)_
+ 
 ---
 
 ## 📈 GitHub Stats
 
-![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadihasandev 👋 Hey, I'm Mahadi Hasan Arnob
-
-**`React Developer | Full Stack Enthusiast | Tech Explorer`**
-
-I'm a passionate software developer who loves building interactive, scalable, and user-friendly applications. I stay up-to-date with the latest technologies and enjoy turning ideas into functional, polished products.  
-My latest project? An **E-commerce & Chatting App** that blends smooth UI with real-time features. 🚀  
-
----
-
-## 🛠 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
-
-**Backend & Database:**  
-![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-
----
-
-## 📌 Latest Project
-**E-commerce & Chatting App**  
-A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
-**Tech used:** React, TailwindCSS, Firebase, Express, MUI.
-
-🔗 [View Project](#) _(https://e-commerce-react-tailwind-six.vercel.app/)_
-
----
-
-## 📊 Graphical GitHub Stats
-
-<p align="center">
-  <!-- Main stats card -->
-  <img width="420" alt="Mahadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <!-- Top langs -->
-  <img width="320" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Contribution streak -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-
-  <!-- Activity graph (commits over time) -->
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Trophy card -->
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onedark&margin-w=10" />
-</p>
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayhaydi-hasan-b02476259/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mayhaydihasan.com@gmail.com)  
-
----
-
-> _"Building today what the world will use tomorrow."_ ✨
-&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadihasandev&layout=compact&theme=tokyonight)
+![Arnob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnobhasan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobhasan&layout=compact&theme=tokyonight)
 
 ---
 
