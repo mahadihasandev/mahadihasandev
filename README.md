@@ -10,10 +10,10 @@ My latest project? An **E-commerce & Chatting App** that blends smooth UI with r
 ## 🛠 Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FFCA28?logo=figma&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FFCA28?logo=figma&logoColor=black)
 
 **Backend & Database:**  
-![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Express](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ---
 
