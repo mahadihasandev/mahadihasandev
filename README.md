@@ -27,8 +27,11 @@ My latest project? An **E-commerce & Chatting App** that blends smooth UI with r
 A modern platform that allows users to shop online with a smooth UI and communicate with sellers or other users in real-time.  
 **Tech used:** React, TailwindCSS, Firebase, Express, MUI.
 
-🔗 [View Project](#) E-commerce: (https://e-commerce-react-tailwind-six.vercel.app/)
-                      Chatting App: (https://barta-box-chatting-app.vercel.app/)
+🔗 [View Project](#) 
+
+E-commerce: https://e-commerce-react-tailwind-six.vercel.app
+
+Chatting App: https://barta-box-chatting-app.vercel.app
  
 ---
 
